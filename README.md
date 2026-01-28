@@ -24,13 +24,13 @@ Hidden tasks or those running as SYSTEM without clear documentation.
 📸 Proof of Work
 A. Connected Client Dashboard
 The dashboard confirms the Windows 11 endpoint is "Online" and communicating with the Ubuntu server.
-[Insert your screenshot: Home screen showing the connected client]
+![](assets/server_dashboard.png)
 B. Artifact Execution
 Executing the Windows.System.TaskScheduler artifact across the endpoint.
-[Insert your screenshot: Collection setup or "Virtual File System" view]
+![](assets/Start_up.png)
 C. Forensic Results
 The raw data pulled from the endpoint, ready for analysis and export.
-[Insert your screenshot: The results table/grid view]
+![](assets/Troubleshooting.png)
 💡 Key Learnings & Skills
 Remote Forensics: Mastered non-intrusive evidence gathering from remote endpoints.
 Persistence Hunting: Deepened understanding of how adversaries abuse the Task Scheduler for long-term access.
