@@ -1,4 +1,4 @@
-# velociraptor-DFIR-Lab
+# Velociraptor-DFIR-Lab
 🚀 Endpoint Threat Hunting Lab: Velociraptor DFIR
 📌 Overview
 This project demonstrates a real-time Digital Forensics and Incident Response (DFIR) workflow. I deployed a Velociraptor server on Ubuntu 24.04 and connected a Windows 11 endpoint to perform live forensic artifact collection and threat hunting.
